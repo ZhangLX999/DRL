@@ -1,0 +1,2 @@
+# soft update rate for target network
+tau=0.005
