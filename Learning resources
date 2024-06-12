@@ -1,2 +1,7 @@
 # Learning resources for PPO/DDPG/TD3/SAC
 # https://spinningup.openai.com/en/latest/algorithms/sac.html
+
+# Chinese materials for SAC
+# https://blog.csdn.net/MR_kdcon/article/details/116982893
+# Improvement of SAC. for adative temperature parameters and Q network.
+# https://blog.csdn.net/MR_kdcon/article/details/118889768
