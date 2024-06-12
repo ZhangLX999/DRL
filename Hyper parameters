@@ -1,2 +1,5 @@
 # soft update rate for target network
 tau=0.005
+
+# 强化学习调参技巧二：DDPG、TD3、SAC算法为例：
+# https://cloud.tencent.com/developer/article/2196909
