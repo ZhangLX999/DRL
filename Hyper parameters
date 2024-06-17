@@ -3,3 +3,7 @@ tau=0.005
 
 # 强化学习调参技巧二：DDPG、TD3、SAC算法为例：
 # https://cloud.tencent.com/developer/article/2196909
+
+# 深度强化学习落地方法论训练篇：PPO、DQN、DDPG、学习率、折扣因子等
+# https://blog.csdn.net/sinat_39620217/article/details/131730507
+# 折扣因子（discount factor) expected steps=1/(1-df)
